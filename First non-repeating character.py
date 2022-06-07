@@ -8,7 +8,3 @@ def first_non_repeating_letter(string):
       else:
         return s
   return ""
-
-
-from TestFunction import Test
-test = Test(None)   
